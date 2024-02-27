@@ -1,0 +1,14 @@
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\bin\Debug\net8.0\PettingZooVisit.exe
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\bin\Debug\net8.0\PettingZooVisit.deps.json
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\bin\Debug\net8.0\PettingZooVisit.runtimeconfig.json
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\bin\Debug\net8.0\PettingZooVisit.dll
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\bin\Debug\net8.0\PettingZooVisit.pdb
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\PettingZooVisit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\PettingZooVisit.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\PettingZooVisit.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\PettingZooVisit.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\PettingZooVisit.dll
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\refint\PettingZooVisit.dll
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\PettingZooVisit.pdb
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\PettingZooVisit.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Desktop\CsharpProjects\PettingZooVisit\obj\Debug\net8.0\ref\PettingZooVisit.dll
